@@ -94,12 +94,12 @@ body {
 .item {
   display: flex;
   flex-direction: column;
+  align-items: center;
   height: auto;
-  margin: 5px;
-  width: 200px;
+  margin: 4px;
+  width: 220px;
   border: 2px solid rgb(234, 234, 233);
   border-radius: 5px;
-  box-sizing: border-box;
 }
 
 .item .item__sku {
@@ -114,8 +114,10 @@ body {
   text-align: center;
 }
 
-.item .item__image {
-  width: 100%;
+.item__image {
+  height: 160px;
+  width: 180px;
+  padding: 5px;
 }
 
 .item .item__add {
