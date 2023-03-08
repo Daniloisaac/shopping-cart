@@ -3,6 +3,7 @@
  Shopping Cart é um projeto Front-end totalmente dinâmico que consome a API do mercado livre! 
  Usando o localstorege para manter os itens salvos no carrinho
 
+Página do projeto: https://daniloisaac.github.io/shopping-cart/src/
 
 # tecnologias usadas
 
